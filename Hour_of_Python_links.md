@@ -18,16 +18,16 @@ If you want, you can remix any of these projects so you have your own version in
 [https://trinket.io/python/0b2cd9eeef](https://trinket.io/python/0b2cd9eeef)
 
 
-8. Tina's pen
-9. 
+4. Tina's pen
+ 
 [https://trinket.io/python/8a132a12b0](https://trinket.io/python/8a132a12b0)
 
-10. Tina's grid
-11. 
+5. Tina's grid
+
 [https://trinket.io/python/e71114edb4](https://trinket.io/python/e71114edb4)
 
-12. Going in Circles
-13. 
+6. Going in Circles
+
 [https://trinket.io/python/63a809ba15](https://trinket.io/python/63a809ba15)
 
 [https://trinket.io/python/8844f39a4b](https://trinket.io/python/8844f39a4b)
