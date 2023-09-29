@@ -6,7 +6,7 @@ The link to the front page of **Hour of Python** is
 
 [https://hourofpython.trinket.io/a-visual-introduction-to-python](https://hourofpython.trinket.io/a-visual-introduction-to-python)
 
-For our first session, on Saturday 30 September 2023, we will use a slightly edited version of step 1 which students will Remix in their trinket accounts. The link to that step is
+For our first session, on Saturday 30 September 2023, we will use a slightly edited version of step 1 which students will *Remix* in their trinket accounts. The link to that step is
 
 [https://trinket.io/python/05a91de461](https://trinket.io/python/05a91de461)
 
