@@ -62,3 +62,48 @@ If you want, you can remix any of these projects so you have your own version in
 
 [https://trinket.io/python/5beddf5d7f](https://trinket.io/python/5beddf5d7f)
 
+## If-Else Statements
+
+1. Logical Turtles
+
+[https://trinket.io/python/54457acd6e](https://trinket.io/python/54457acd6e)
+
+2. Tina asks how old you are
+
+[https://trinket.io/python/29811a522d](https://trinket.io/python/29811a522d)
+
+3. How High Up is Tina?
+
+[https://trinket.io/python/c21635b19c](https://trinket.io/python/c21635b19c)
+
+## Functions
+
+1. Functions are recipes!
+
+[https://trinket.io/python/8f333d5a29](https://trinket.io/python/8f333d5a29)
+
+2. Make 5 cakes
+
+[https://trinket.io/python/ff6cff5d83](https://trinket.io/python/ff6cff5d83)
+
+3. Say hello!
+
+[https://trinket.io/python/d303facde0](https://trinket.io/python/d303facde0)
+
+[https://trinket.io/python/7debe70df9](https://trinket.io/python/7debe70df9)
+
+## Put it all together
+
+1. A Picture with Tina and Tommy
+
+[https://trinket.io/python/58f2051d48](https://trinket.io/python/58f2051d48)
+
+2. Write a poem
+
+[https://trinket.io/python/37906b8b53](https://trinket.io/python/37906b8b53)
+
+## You did it!
+
+1. Share Your Progress!
+
+[https://trinket.io/python/b10c7cb639](https://trinket.io/python/b10c7cb639)
