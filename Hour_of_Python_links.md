@@ -1,7 +1,9 @@
+# Hour of Python links
+
 These are the links to the trinket projects for the different steps in the Hour of Python tutorial.
 If you want, you can remix any of these projects so you have your own version in your trinket account.
 
-# Turtles!
+## Turtles!
 
 1. Meet Tina
 
@@ -34,7 +36,7 @@ If you want, you can remix any of these projects so you have your own version in
 
 [https://trinket.io/python/8844f39a4b](https://trinket.io/python/8844f39a4b)
 
-# Repeating with Loops and Lists
+## Repeating with Loops and Lists
 
 1. Lists of numbers
 
@@ -50,7 +52,7 @@ If you want, you can remix any of these projects so you have your own version in
 
 [https://trinket.io/python/6df0eba011](https://trinket.io/python/6df0eba011)
 
-# Multiple turtles
+## Multiple turtles
 
 1. Turtles are Objects!
 
