@@ -16,3 +16,12 @@ For our first session, on Saturday 30 September 2023, we will use a slightly edi
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
 - We can’t use reserved keywords as a variable name (see below)
 - We should avoid using names of Python functions, eg int, input, str
+
+To find the list of reserved keywords go to the trinket Python console [trinket.io/console](https://trinket.io/console)
+
+and type (you don't have to type the >>>):
+
+```python
+>>> import keyword
+>>> keyword.kwlist
+```
