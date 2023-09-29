@@ -26,4 +26,6 @@ and type (you don't have to type the >>>):
 >>> keyword.kwlist
 ```
 
+### Make your own versions of the Hour of Python programmes
+
 If you want to remix any of the trinket project in Hour of Python, so you have a version of your own in your trinket account, you can find all the links [here](./Hour_of_Python_links.md)
