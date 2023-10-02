@@ -4,11 +4,11 @@ We are going to introduce Python to beginner coders this session using a *trinke
 
 The link to the front page of **Hour of Python** is
 
-[https://hourofpython.trinket.io/a-visual-introduction-to-python](https://hourofpython.trinket.io/a-visual-introduction-to-python)
+[https://hourofpython.trinket.io/a-visual-introduction-to-python](https://hourofpython.trinket.io/a-visual-introduction-to-python){:target="_blank"}
 
 For our first session, on Saturday 30 September 2023, we will use a slightly edited version of step 1 which students will *Remix* in their trinket accounts. The link to that step is
 
-[https://trinket.io/python/05a91de461](https://trinket.io/python/05a91de461)
+[https://trinket.io/python/05a91de461](https://trinket.io/python/05a91de461){:target="_blank"}
 
 ### Rules for naming your Python variables:
 - A variable name can only contain alpha-numeric characters and underscores (A-Z, a-z, 0-9, and _ ). No SPACES allowed.
