@@ -29,3 +29,13 @@ and type (you don't have to type the >>>):
 ### Make your own versions of the Hour of Python programmes
 
 If you want to remix any of the trinket projects in Hour of Python, so you have a version of your own in your trinket account, you can find all the links [here](./Hour_of_Python_links.md)
+
+### Link to trinket project for introducing lists
+
+In our second session we will be using a trinket project to introduce *lists*. The link to the trinket project is
+
+[https://trinket.io/python/33bf438adb](https://trinket.io/python/33bf438adb)
+
+We will also use the trinket *Python console* which you can open with this link
+
+[trinket.io/console](https://trinket.io/console)
