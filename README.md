@@ -39,3 +39,9 @@ In our second session we will be using a trinket project to introduce *lists*. T
 We will also use the trinket *Python console* which you can open with this link
 
 [trinket.io/console](https://trinket.io/console)
+
+### Link to trinket project for drawing a square with a loop
+
+[https://trinket.io/python/383a4b9b63](https://trinket.io/python/383a4b9b63)
+
+
