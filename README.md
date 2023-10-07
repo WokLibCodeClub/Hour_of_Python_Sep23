@@ -48,7 +48,7 @@ We will also use the trinket *Python console* which you can open with this link
 
 Here are a couple of Python projects you might want to try out at home:
 
-The first one doesn't use trinket, it uses the new Raspberry Pi Python editor, so to be able to save your code you will need a Raspberry Pi account. You can make one by going to [this link](https://my.raspberrypi.org/signup). You will need an email address, and you will also need to respond to a verification email which will be sent to that address.
+The first one doesn't use trinket, it uses the new Raspberry Pi Python editor, so to be able to save your code you will need a Raspberry Pi account. You can make one by going to [this link](https://my.raspberrypi.org/signup). If you are under 13 you should get an adult to go through the procedure with you. You will need an email address, and you will also need to respond to a verification email which will be sent to that address.
 
 [Hello world](https://projects.raspberrypi.org/en/projects/hello-world)
 
