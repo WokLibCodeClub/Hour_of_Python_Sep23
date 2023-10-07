@@ -44,4 +44,14 @@ We will also use the trinket *Python console* which you can open with this link
 
 [https://trinket.io/python/383a4b9b63](https://trinket.io/python/383a4b9b63)
 
+### Python project suggestions from Raspberry Pi website
 
+Here are a couple of Python projects you might want to try out at home:
+
+The first one doesn't use trinket, it uses the new Raspberry Pi Python editor, so to be able to save your code you will need a Raspberry Pi account. You can make one by going to [this link](https://my.raspberrypi.org/signup). You will need an email address, and you will also need to respond to a verification email which will be sent to that address.
+
+[Hello world](https://projects.raspberrypi.org/en/projects/hello-world)
+
+The second suggestion runs using trinket so you can use your existing account:
+
+[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
