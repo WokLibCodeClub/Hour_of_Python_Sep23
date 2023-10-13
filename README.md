@@ -55,3 +55,7 @@ The first one doesn't use trinket, it uses the new Raspberry Pi Python editor, s
 The second suggestion runs using trinket so you can use your existing account:
 
 [Turtle Race!](https://projects.raspberrypi.org/en/projects/turtle-race)
+
+### Link to trinket project for age calculator
+
+[https://trinket.io/python/4ff4e55316](https://trinket.io/python/4ff4e55316)
