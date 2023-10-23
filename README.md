@@ -44,6 +44,14 @@ We will also use the trinket *Python console* which you can open with this link
 
 [https://trinket.io/python/383a4b9b63](https://trinket.io/python/383a4b9b63)
 
+### Link to trinket project for age calculator
+
+[https://trinket.io/python/4ff4e55316](https://trinket.io/python/4ff4e55316)
+
+### Link to trinket project for What will happen?
+
+[https://trinket.io/python/d60c60a6a0](https://trinket.io/python/d60c60a6a0)
+
 ### Python project suggestions from Raspberry Pi website
 
 Here are a couple of Python projects you might want to try out at home:
@@ -56,6 +64,3 @@ The second suggestion runs using trinket so you can use your existing account:
 
 [Turtle Race!](https://projects.raspberrypi.org/en/projects/turtle-race)
 
-### Link to trinket project for age calculator
-
-[https://trinket.io/python/4ff4e55316](https://trinket.io/python/4ff4e55316)
