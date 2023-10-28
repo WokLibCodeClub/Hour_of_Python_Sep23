@@ -49,7 +49,7 @@ We will also use the trinket *Python console* which you can open with this link
 [https://trinket.io/python/4ff4e55316](https://trinket.io/python/4ff4e55316)
 
 ### Summary of Python session on 28th October 2023
-Unfortunately some students missed the Python session on Saturday 28th October 2023. To help them we have made a brief summary of the things we learned in that session, so that those students can catch up and be ready to continue learning Python at the next session on Saturday 4th November 2023. Here is the link:
+Unfortunately some students missed the Python session on Saturday 28th October 2023. To help them we have made a brief summary of the things we learned in that session, so that those students can catch up and be ready to continue learning Python at the next session on Saturday 4th November 2023. Here is the link to the summary:
 
 [Summary of session on 28 October 2023](./28Oct2023.md)
 
