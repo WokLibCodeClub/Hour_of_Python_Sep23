@@ -53,9 +53,9 @@ Unfortunately some students missed the Python session on Saturday 28th October 2
 
 [Summary of session on 28 October 2023](./28Oct2023.md)
 
-### Link to trinket project for What will happen?
+### Link to trinket project for age calculator part 2
 
-[https://trinket.io/python/d60c60a6a0](https://trinket.io/python/d60c60a6a0)
+[https://trinket.io/python/b9beb5f745](https://trinket.io/python/b9beb5f745)
 
 ### Python project suggestions from Raspberry Pi website
 
